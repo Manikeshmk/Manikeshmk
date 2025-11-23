@@ -7,7 +7,7 @@
 
 # 👨‍💻 About Me  
 🎓 B.Tech in **Data Science & Artificial Intelligence** @ *IIIT Dharwad*  
-🔬 Intern @ **IIT Delhi** • Former Intern @ **IIT Dharwad**  
+🔬 Former Intern @ **IIT Dharwad**  
 🌱 Currently Learning **JavaScript, React, Generative AI, Deep Speech Processing**  
 
 🏆 **Achievements**  
@@ -21,6 +21,8 @@
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Web Development**
@@ -44,24 +46,21 @@
 # 🚀 Completed Projects
 
 ### 🔹 **MNIST Digit Generator**  
-A Streamlit-based web app that generates handwritten digits using a self-trained MNIST model.  
-Includes preview, random generation, and a simple user interface.
+A Streamlit-based web app that generates handwritten digits using a self-trained MNIST deep learning model.
 
 ---
 
 ### 🔹 **ECAPA-TDNN Speaker Recognition System**  
-Speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN model + LibriSpeech embeddings.  
-Includes audio preprocessing, model inference, and speaker similarity scoring.
+A speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN architecture with LibriSpeech embeddings, capable of comparing voices with similarity scoring.
 
 ---
 
 ### 🔹 **Proximity Warning System (Radar-based)**  
-A short-range proximity detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**.  
-Designed for safety-critical industrial and robot-navigation applications.
+A short-range radar detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**, designed for safety and industrial proximity sensing.
 
 ---
 
-# 📊 GitHub Stats (Auto-updates even if repos are empty)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manikeshmk&show_icons=true&theme=tokyonight" height="165">

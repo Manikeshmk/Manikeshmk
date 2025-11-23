@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Manikesh+Kumar!;+Data+Science+%26+AI+Engineer;Generative+AI+%7C+Deep+Learning+%7C+Web+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFF00&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Manikesh+Kumar!;+Data+Science+%26+AI+Engineer;Generative+AI+%7C+Deep+Learning+%7C+Web+Dev" />
 </p>
 
 ---

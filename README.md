@@ -9,14 +9,9 @@
 🎓 B.Tech in **Data Science & Artificial Intelligence** @ *IIIT Dharwad*  
 🔬 Intern @ **IIT Delhi** • Former Intern @ **IIT Dharwad**  
 🌱 Currently Learning **JavaScript, React, Generative AI, Deep Speech Processing**  
-💡 Working on:  
-- Codaxa — Data Exchange Platform (React + Vite + Tailwind + ShadCN UI)  
-- ECAPA-TDNN Speaker Recognition (SpeechBrain)  
-- MNIST Handwritten Digit Generator (Streamlit Web App)  
-- Proximity Warning System using **TI IWR6843 Radar + VEGA/SHAKTI cores**
 
 🏆 **Achievements**  
-- Top 20 in India — National **Analog Design Hackathon**  
+- Top 20 in India — National **Analog Design Hackathon (C2S)**  
 - 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad  
 
 ---
@@ -43,27 +38,30 @@
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🚀 Projects
-
-### 🔹 **Codaxa — Data Exchange Platform**  
-*React + Vite + Tailwind + ShadCN | Feature-based architecture | AWS backend*  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manikeshmk&repo=Codaxa)](https://github.com/Manikeshmk/Codaxa)
+# 🚀 Completed Projects
 
 ### 🔹 **MNIST Digit Generator**  
-*Streamlit app that generates handwritten digits using a trained model.*  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manikeshmk&repo=mnist-generator)](https://github.com/Manikeshmk/mnist-generator)
-
-### 🔹 **ECAPA-TDNN Speaker Recognition**  
-*Speaker verification using SpeechBrain + LibriSpeech embeddings.*  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manikeshmk&repo=speaker-recognition)](https://github.com/Manikeshmk/speaker-recognition)
+A Streamlit-based web app that generates handwritten digits using a self-trained MNIST model.  
+Includes preview, random generation, and a simple user interface.
 
 ---
 
-# 📊 GitHub Stats
+### 🔹 **ECAPA-TDNN Speaker Recognition System**  
+Speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN model + LibriSpeech embeddings.  
+Includes audio preprocessing, model inference, and speaker similarity scoring.
+
+---
+
+### 🔹 **Proximity Warning System (Radar-based)**  
+A short-range proximity detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**.  
+Designed for safety-critical industrial and robot-navigation applications.
+
+---
+
+# 📊 GitHub Stats (Auto-updates even if repos are empty)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manikeshmk&show_icons=true&theme=tokyonight" height="165">

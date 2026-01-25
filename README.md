@@ -1,8 +1,12 @@
-<!-- Banner -->
+<img src="./assets/hero.svg" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFF00&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Manikesh+Kumar!;+Data+Science+%26+AI+Engineer;Generative+AI+%7C+Deep+Learning+%7C+Web+Dev" />
+  <img src="assets/banner.svg" width="600"/>
 </p>
 
+<img src="assets/divider.svg" width="100%" />
+<p align="center">
+  <img src="./assets/coding-cat.svg" width="160"/>
+</p>
 ---
 
 # 👨‍💻 About Me  
@@ -14,7 +18,7 @@
 - Top 20 in India — National **Analog Design Hackathon (C2S)**  
 - 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad  
 
----
+<img src="assets/divider.svg" width="100%" />
 
 # 🔧 Tech Stack
 
@@ -41,9 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-
----
+<img src="assets/divider.svg" width="100%" />
 
 # 📊 GitHub Stats
 
@@ -52,30 +54,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikeshmk&layout=compact&theme=tokyonight" height="165">
 </p>
 
----
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Manikeshmk&color=blue)  
+  ![Total Profile Views](https://github.com/Manikeshmk?tab=overview&from=2023-01-01&to=2026-01-25)
+</p>
 
-# 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Manikeshmk&color=blue)
-
----
+<img src="assets/divider.svg" width="100%" />
 
 # 🚀 Completed Projects
 
 ### 🔹 **MNIST Digit Generator**  
 A Streamlit-based web app that generates handwritten digits using a self-trained MNIST deep learning model.
 
----
-
 ### 🔹 **ECAPA-TDNN Speaker Recognition System**  
 A speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN architecture with LibriSpeech embeddings, capable of comparing voices with similarity scoring.
-
----
 
 ### 🔹 **Proximity Warning System (Radar-based)**  
 A short-range radar detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**, designed for safety and industrial proximity sensing.
 
-
----
+<img src="assets/divider.svg" width="100%" />
 
 # 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikesh-kumar/)
+<img src="./assets/footer.svg" />

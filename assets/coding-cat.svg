@@ -90,7 +90,13 @@
   showRole();
   setInterval(showRole, 1500);
 ]]></script>
-
+<path id="rolePath" d="M80,130 H220 V220 H80 V130 Z" fill="transparent"/>
+  <text font-family="monospace" font-size="12" fill="#38bdf8">
+    <textPath href="#rolePath" startOffset="0%">
+      Web Developer • Data Scientist • ML Engineer • AI Enthusiast • Generative AI • UI/UX Designer • Python • Java • React
+      <animate attributeName="startOffset" from="0%" to="100%" dur="15s" repeatCount="indefinite"/>
+    </textPath>
+  </text>
 <!-- All Roles at Bottom -->
 <text x="150" y="280" text-anchor="middle" fill="#38bdf8" font-size="12" font-family="monospace">
   Web Developer • Data Scientist • ML Engineer • AI Enthusiast • Generative AI • UI/UX Designer • Python • Java • React

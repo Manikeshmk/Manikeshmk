@@ -1,0 +1,24 @@
+<svg width="220" height="220" viewBox="0 0 220 220"
+ xmlns="http://www.w3.org/2000/svg">
+
+<rect x="40" y="70" width="140" height="90" rx="10" fill="#0f172a" stroke="#2afadf" stroke-width="2"/>
+<text x="110" y="115" text-anchor="middle" fill="#2afadf" font-size="16" font-family="monospace">
+ &lt;/&gt;
+</text>
+
+<!-- Cat -->
+<circle cx="110" cy="50" r="25" fill="#facc15"/>
+<polygon points="85,25 95,10 105,25" fill="#facc15"/>
+<polygon points="115,25 125,10 135,25" fill="#facc15"/>
+
+<circle cx="102" cy="48" r="3" fill="#000"/>
+<circle cx="118" cy="48" r="3" fill="#000"/>
+
+<animateTransform attributeName="transform"
+ type="translate"
+ from="0 0"
+ to="0 -4"
+ dur="1.5s"
+ repeatCount="indefinite"
+ direction="alternate"/>
+</svg>

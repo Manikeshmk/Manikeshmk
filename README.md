@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="600"/>
 </p>
 <p align="center">
-  <img src="./assets/coding-cat.svg" width="200"/>
+  <img src="./assets/coding-cat.svg" width="400"/>
 </p>
 
 

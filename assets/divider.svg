@@ -1,1 +1,18 @@
+<svg width="1200" height="18" viewBox="0 0 1200 18"
+ xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ff0080"/>
+    <stop offset="20%" stop-color="#7928ca"/>
+    <stop offset="40%" stop-color="#2afadf"/>
+    <stop offset="60%" stop-color="#00ff87"/>
+    <stop offset="80%" stop-color="#facc15"/>
+    <stop offset="100%" stop-color="#ff0080"/>
+  </linearGradient>
+</defs>
+
+<rect x="0" y="8" width="1200" height="2" fill="url(#d)">
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+</rect>
+</svg>
 

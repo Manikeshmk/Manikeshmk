@@ -2,8 +2,9 @@
   <img src="assets/banner.svg" width="600"/>
 </p>
 <p align="center">
-  <img src="./assets/coding-cat.svg" width="400"/>
+  <img src="./assets/coding-cat.svg" width="200"/>
 </p>
+
 
 <img src="assets/divider.svg" width="100%" />
 

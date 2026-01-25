@@ -1,12 +1,12 @@
-<img src="./assets/hero.svg" />
 <p align="center">
   <img src="assets/banner.svg" width="600"/>
 </p>
+<p align="center">
+  <img src="./assets/coding-cat.svg" width="400"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" />
-<p align="center">
-  <img src="./assets/coding-cat.svg" width="160"/>
-</p>
+
 ---
 
 # 👨‍💻 About Me  

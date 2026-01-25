@@ -56,7 +56,6 @@
 
 # 👀 Profile Views 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manikeshmk&color=blue)  
-![Total Profile Views](https://github.com/Manikeshmk?tab=overview&from=2023-01-01&to=2026-01-25)
 <img src="assets/divider.svg" width="100%" />
 
 # 🚀 Completed Projects

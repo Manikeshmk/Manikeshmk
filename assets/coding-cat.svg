@@ -12,6 +12,35 @@
   &lt;/&gt;
   <animate attributeName="fill" values="#2afadf;#ff6f61;#2afadf" dur="3s" repeatCount="indefinite"/>
 </text>
+ <text x="150" y="180" text-anchor="middle" fill="#00ffff" font-size="18" font-family="monospace">
+    <tspan>
+      <animate attributeName="opacity" values="1;0;0;0;0;0;0;0;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">Web Developer</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1;0;0;0;0;0;0;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">Data Scientist</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;1;0;0;0;0;0;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">ML Engineer</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;1;0;0;0;0;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">AI Enthusiast</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;1;0;0;0;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">Generative AI</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0;1;0;0;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">UI/UX Designer</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;0;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">Python Lover</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;0;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">Java Enthusiast</animate>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;0" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="12s" repeatCount="indefinite">React Developer</animate>
+    </tspan>
+  </text>
 
 <!-- Cat Head -->
 <circle cx="150" cy="60" r="30" fill="#facc15">

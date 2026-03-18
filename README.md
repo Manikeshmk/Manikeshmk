@@ -53,7 +53,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" 
+         src="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg" 
+         style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
   </picture>
 </p>
 <p align="center">

@@ -66,9 +66,9 @@
 </p>
 <br>
 
-![Manikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikeshmk&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikeshmk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manikeshmk&theme=dark&background=000000)](https://git.io/streak-stats)
+![Manikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manikeshmk&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikeshmk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manikeshmk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <br>

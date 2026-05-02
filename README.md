@@ -65,18 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikeshmk&layout=compact&theme=tokyonight" height="165">
 </p>
 <br>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikeshmk&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikeshmk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165">
-</p>
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manikeshmk&theme=dark&background=000000" height="165">
-</p> --> -->
 ![Manikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manikeshmk&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikeshmk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=manikeshmk&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manikeshmk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <br>

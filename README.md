@@ -15,7 +15,7 @@
 🔬 Intern @ **IIT Delhi**
 
 🔬 Former Intern @ **IIT Dharwad**  
-🌱 Currently Learning **JavaScript, React, Generative AI, Deep Speech Processing**  
+🌱 Currently Learning **Generative AI, Agentic AI, XAI, React, JavaScript**  
 
 🏆 **Achievements**  
 - Top 20 in India — National **Analog Design Hackathon (C2S)**  

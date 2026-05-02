@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" width="600"/>
+  <img src="./assets/banner.svg" width="600"/>
 </p>
 <p align="center">
   <img src="./assets/coding-cat.svg" width="400"/>
 </p>
 
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ---
 
@@ -21,7 +21,7 @@
 - Top 20 in India — National **Analog Design Hackathon (C2S)**  
 - 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad  
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 # 🔧 Tech Stack
 
@@ -48,7 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 # 📊 GitHub Stats
 <p align="center">
@@ -56,13 +56,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" 
-         src="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg" 
+         src="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg" 
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
   </picture>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikeshmk&layout=compact&theme=tokyonight&cache_seconds=1800" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikeshmk&layout=compact&theme=tokyonight&cache_seconds=1800" height="165">
 </p>
 <br>
 

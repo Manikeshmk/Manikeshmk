@@ -64,7 +64,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Manikeshmk&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikeshmk&layout=compact&theme=tokyonight" height="165">
 </p>
+<br>
 
+![Manikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikeshmk&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikeshmk&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manikeshmk&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+<br>
 # 👀 Profile Views 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manikeshmk&color=blue)  
 <img src="assets/divider.svg" width="100%" />

@@ -53,26 +53,29 @@
 # 📊 GitHub Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" 
          src="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg" 
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
   </picture>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikeshmk&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikeshmk&layout=compact&theme=tokyonight&cache_seconds=1800" height="165">
 </p>
 <br>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manikeshmk&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=manikeshmk&theme=dark&background=000000" />
+  </a>
+</p>
 
 <br>
 # 👀 Profile Views 
-![Profile Views](https://komarev.com/ghpvc/?username=Manikeshmk&color=blue)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
 <img src="assets/divider.svg" width="100%" />
 
 # 🚀 Completed Projects

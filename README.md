@@ -78,16 +78,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
 <img src="assets/divider.svg" width="100%" />
 
-# 🚀 Completed Projects
+<img src="./assets/divider.svg" width="100%" />
 
-### 🔹 **MNIST Digit Generator**  
-A Streamlit-based web app that generates handwritten digits using a self-trained MNIST deep learning model.
+# 🌐 Live Websites Portfolio  
+<p align="center">
+  <i>Explore my deployed products, experiments, and interactive web experiences</i>
+</p>
 
-### 🔹 **ECAPA-TDNN Speaker Recognition System**  
-A speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN architecture with LibriSpeech embeddings, capable of comparing voices with similarity scoring.
-
-### 🔹 **Proximity Warning System (Radar-based)**  
-A short-range radar detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**, designed for safety and industrial proximity sensing.
+<!-- WEBSITE-LINKS-START -->
+<!-- WEBSITE-LINKS-END -->
 
 <img src="assets/divider.svg" width="100%" />
 

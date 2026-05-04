@@ -13,7 +13,6 @@
 # 👨‍💻 About Me  
 🎓 B.Tech in **Data Science & Artificial Intelligence** @ *IIIT Dharwad*  
 🔬 Intern @ **IIT Delhi**
-
 🔬 Former Intern @ **IIT Dharwad**  
 🌱 Currently Learning **Generative AI, Agentic AI, XAI, React, JavaScript**  
 

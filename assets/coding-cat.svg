@@ -20,11 +20,11 @@
 
   <text id="role" x="150" y="245" text-anchor="middle" fill="#00ffff" font-size="16" font-family="monospace"></text>
   <g font-family="monospace" font-size="16" fill="#00ffff" text-anchor="middle">
-    <text x="150" y="245">Web Developer<animate attributeName="opacity" values="1;0;0;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.2;0.21;0.99;1"/></text>
-    <text x="150" y="245" opacity="0">Data Scientist<animate attributeName="opacity" values="0;1;0;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.2;0.4;0.41;1"/></text>
-    <text x="150" y="245" opacity="0">ML Engineer<animate attributeName="opacity" values="0;0;1;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.4;0.6;0.61;1"/></text>
-    <text x="150" y="245" opacity="0">AI Enthusiast<animate attributeName="opacity" values="0;0;0;1;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.6;0.8;0.81;1"/></text>
-    <text x="150" y="245" opacity="0">Python Lover<animate attributeName="opacity" values="0;0;0;0;1" dur="10s" repeatCount="indefinite" keyTimes="0;0.8;0.95;1;1"/></text>
+    <text x="150" y="245">Web Development<animate attributeName="opacity" values="1;0;0;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.2;0.21;0.99;1"/></text>
+    <text x="150" y="245" opacity="0">Data Science<animate attributeName="opacity" values="0;1;0;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.2;0.4;0.41;1"/></text>
+    <text x="150" y="245" opacity="0">Machine Learning<animate attributeName="opacity" values="0;0;1;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.4;0.6;0.61;1"/></text>
+    <text x="150" y="245" opacity="0">Artificial Intelligence<animate attributeName="opacity" values="0;0;0;1;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.6;0.8;0.81;1"/></text>
+    <text x="150" y="245" opacity="0">Python Development<animate attributeName="opacity" values="0;0;0;0;1" dur="10s" repeatCount="indefinite" keyTimes="0;0.8;0.95;1;1"/></text>
   </g>
 
   <text font-family="monospace" font-size="12" fill="#38bdf8">

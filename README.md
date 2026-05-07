@@ -69,9 +69,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=manikeshmk&theme=dark&background=000000" />
   </a>
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=manikeshmk>
-  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manikeshmk&theme=matrix&no-frame=true" />
 </p>
 
 <br>

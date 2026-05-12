@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=manikeshmk&theme=dark&background=000000" />
+    <img src="https://streak-stats.demolab.com?user=manikeshmk&theme=dark&cache_seconds=1800&v=3" />
   </a>
 </p>
 <p align="center">

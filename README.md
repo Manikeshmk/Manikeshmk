@@ -62,7 +62,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikeshmk&theme=tokyonight&langs_count=100&cache_seconds=1800" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikeshmk&theme=tokyonight&layout=compact&langs_count=100&cache_seconds=1800" height="165">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manikeshmk&theme=tokyonight" >
 </p>
 <br>

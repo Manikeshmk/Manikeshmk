@@ -87,12 +87,20 @@
 </p>
 
 <!-- WEBSITE-LINKS-START -->
+<a href="https://manikeshmk.github.io/8-symbols-universe/" target="_blank">
+  <img src="https://img.shields.io/badge/8-symbols-universe-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://manikeshmk.github.io/AI_summary_evaluation/" target="_blank">
   <img src="https://img.shields.io/badge/AI_summary_evaluation-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://manikeshmk.github.io/Arm_challenge/" target="_blank">
   <img src="https://img.shields.io/badge/Arm_challenge-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://manikeshmk.github.io/bf_runner/" target="_blank">
+  <img src="https://img.shields.io/badge/bf_runner-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://manikeshmk.github.io/BrainFuck/" target="_blank">
@@ -123,12 +131,12 @@
   <img src="https://img.shields.io/badge/JOSAA_CSAB_Counselling-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://manikeshmk.github.io/LISP/" target="_blank">
-  <img src="https://img.shields.io/badge/LISP-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://manikeshmk.github.io/lispmind-web/" target="_blank">
+  <img src="https://img.shields.io/badge/lispmind-web-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://manikeshmk.github.io/Lua/" target="_blank">
-  <img src="https://img.shields.io/badge/Lua-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://manikeshmk.github.io/Lua_Agent_AI_Sim/" target="_blank">
+  <img src="https://img.shields.io/badge/Lua_Agent_AI_Sim-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://manikeshmk.github.io/" target="_blank">
@@ -151,12 +159,16 @@
   <img src="https://img.shields.io/badge/Prolog-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://manikeshmk.github.io/The-Infinite-Tape/" target="_blank">
+  <img src="https://img.shields.io/badge/The-Infinite-Tape-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://manikeshmk.github.io/Time_Table_chat/" target="_blank">
   <img src="https://img.shields.io/badge/Time_Table_chat-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://manikeshmk.github.io/Typescript_project/" target="_blank">
-  <img src="https://img.shields.io/badge/Typescript_project-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://manikeshmk.github.io/Visual_Marker_detection/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual_Marker_detection-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://manikeshmk.github.io/WEbsite_Change_Monitor/" target="_blank">

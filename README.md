@@ -8,7 +8,6 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
----
 
 # 👨‍💻 About Me  
 💻 Intern @ **IIT Delhi**<br>
@@ -73,7 +72,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikeshmk&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manikeshmk&theme=onedark&no-frame=true" />
 </p>
 
 <br>
@@ -81,8 +80,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
 <img src="assets/divider.svg" width="100%" />
-
-<img src="./assets/divider.svg" width="100%" />
 
 # 🌐 Live Websites Portfolio  
 <p align="center">

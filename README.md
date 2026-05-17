@@ -72,6 +72,7 @@
   </a>
 </p>
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manikeshmk&theme=onedark&no-frame=true" />
 </p>
 
 <br>

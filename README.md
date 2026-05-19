@@ -48,7 +48,7 @@
 <img src="./assets/divider.svg" width="100%" />
 
 # 📊 GitHub Stats
-![All Languages](https://all-languages-used.vercel.app/api/languages?username=manikeshmk)
+![Languages in my repo ](https://all-languages-used.vercel.app/api/languages?username=manikeshmk)
 
 <p align="center">
   <picture>

@@ -14,11 +14,21 @@
     <stop offset="75%" stop-color="#facc15"/>
     <stop offset="100%" stop-color="#ff0080"/>
   </linearGradient>
+ <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#FFD700"/>
+  <stop offset="50%" stop-color="#FF9F1C"/>
+  <stop offset="100%" stop-color="#FF5E00"/>
+</linearGradient>
  <linearGradient id="blueGradient" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0%" stop-color="#00ffff"/>
     <stop offset="50%" stop-color="#0077ff"/>
     <stop offset="100%" stop-color="#00ffff"/>
   </linearGradient>
+ <linearGradient id="cyberGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#FF0080"/>
+  <stop offset="50%" stop-color="#7928CA"/>
+  <stop offset="100%" stop-color="#00E5FF"/>
+</linearGradient>
  <radialGradient id="glow">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25"/>
       <stop offset="100%" stop-color="transparent"/>
@@ -38,20 +48,50 @@
 <!-- Name -->
 <circle cx="300" cy="140" r="180" fill="url(#glow)" />
 <circle cx="900" cy="140" r="180" fill="url(#glow)" />
-<text x="50%" y="50%" text-anchor="middle"
+<text x="50%" y="70%" text-anchor="middle"
  fill="url(#blueGradient)"
  font-size="42"
  font-family="Segoe UI, sans-serif"
  font-weight="700">
  Manikesh Kumar
 </text>
+<text x="50%" y="15%"
+      text-anchor="middle"
+      fill="url(#goldGradient)"
+      font-size="38"
+      font-family="Segoe UI, sans-serif"
+      font-weight="700">
 
-<text x="50%" y="63%" text-anchor="middle"
- fill="#e5e7eb"
- font-size="18"
- font-family="monospace">
- AI • ML • GenAI • Web • UI/UX Engineer
+  <tspan x="50%" dy="0">
+    Wait... you visited my profile 👀
+  <!-- </tspan>
+
+  <tspan x="50%" dy="50"> -->
+    I have something cool for you.
+  </tspan>
 </text>
 
+<!-- Clickable Link -->
+<a href="https://all-languages-used.vercel.app/"
+   target="_blank">
+
+  <text x="50%" y="50%"
+        text-anchor="middle"
+        fill="url(#cyberGradient)"
+        font-size="24"
+        font-family="Segoe UI, sans-serif"
+        font-weight="600"
+        text-decoration="underline">
+
+    Try my open-source GitHub Languages Widget →
+  </text>
+</a>
+ <text x="50%" y="30%"
+      text-anchor="middle"
+      fill="#e5e7eb"
+      font-size="18"
+      font-family="monospace">
+ Are you Curious about every language you've used on GitHub?
+</text>
 </svg>
 

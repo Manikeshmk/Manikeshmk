@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="600"/>
+  <a href="https://all-languages-used.vercel.app/" target="_blank">
+    <img src="./assets/banner.svg" width="600"/>
+  </a>
 </p>
 <p align="center">
   <img src="./assets/coding-cat.svg" width="400"/>

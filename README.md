@@ -8,7 +8,6 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-
 # 👨‍💻 About Me  
 💻 Intern @ **IIT Delhi**<br>
 🔬 Former Intern @ **IIT Dharwad**  
@@ -49,6 +48,7 @@
 <img src="./assets/divider.svg" width="100%" />
 
 # 📊 GitHub Stats
+![All Languages](https://all-languages-used.vercel.app/api/languages?username=manikeshmk)
 
 <p align="center">
   <picture>

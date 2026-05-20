@@ -3,11 +3,12 @@ name: Update Live Websites
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"   # Weekly auto-update
+    - cron: "0 0 * * 0"
 
 permissions:
   contents: write
   pages: read
+
 jobs:
   update-websites:
     runs-on: ubuntu-latest
@@ -23,6 +24,8 @@ jobs:
 
       - name: Generate website links
         run: node .github/scripts/list-pages.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README
         run: node .github/scripts/update-readme.js
@@ -31,6 +34,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md website-links.md
+
           git commit -m "Auto-update live website portfolio" || echo "No changes"
+
           git push

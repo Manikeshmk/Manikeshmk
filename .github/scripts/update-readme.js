@@ -1,13 +1,20 @@
 const fs = require("fs");
 
-const readme = fs.readFileSync("README.md", "utf8");
-const websiteLinks = fs.readFileSync("website-links.md", "utf8");
+const readmePath = "README.md";
+const linksPath = "website-links.md";
 
-const updated = readme.replace(
+const readme = fs.readFileSync(readmePath, "utf8");
+const websiteLinks = fs.readFileSync(linksPath, "utf8");
+
+const updatedReadme = readme.replace(
   /<!-- WEBSITE-LINKS-START -->([\s\S]*?)<!-- WEBSITE-LINKS-END -->/,
-  `<!-- WEBSITE-LINKS-START -->\n${websiteLinks}\n<!-- WEBSITE-LINKS-END -->`
+  `<!-- WEBSITE-LINKS-START -->
+
+${websiteLinks}
+
+<!-- WEBSITE-LINKS-END -->`
 );
 
-fs.writeFileSync("README.md", updated);
+fs.writeFileSync(readmePath, updatedReadme);
 
-console.log("README updated successfully!");
+console.log("README updated!");

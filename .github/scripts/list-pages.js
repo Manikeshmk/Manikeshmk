@@ -2,6 +2,7 @@ const https = require("https");
 const fs = require("fs");
 
 const username = "manikeshmk";
+const token = process.env.GITHUB_TOKEN;
 
 function fetchJSON(url) {
   return new Promise((resolve, reject) => {
@@ -11,12 +12,15 @@ function fetchJSON(url) {
         headers: {
           "User-Agent": "node",
           Accept: "application/vnd.github+json",
+          Authorization: `Bearer ${token}`,
         },
       },
       (res) => {
         let data = "";
 
-        res.on("data", (chunk) => (data += chunk));
+        res.on("data", (chunk) => {
+          data += chunk;
+        });
 
         res.on("end", () => {
           try {
@@ -40,26 +44,57 @@ async function main() {
 
   const repos = repoResponse.data;
 
-  let markdown = "";
+  let markdown = `# 🌐 Live Websites Portfolio
+
+<p align="center">
+  <i>Explore my deployed products, experiments, and interactive web experiences</i>
+</p>
+
+`;
 
   for (const repo of repos) {
     if (repo.fork) continue;
 
-    // Check if GitHub Pages is enabled
-    const pagesResponse = await fetchJSON(
-      `https://api.github.com/repos/${username}/${repo.name}/pages`
+    // Fetch deployments
+    const deploymentResponse = await fetchJSON(
+      `https://api.github.com/repos/${username}/${repo.name}/deployments`
     );
 
-    // Skip repos without Pages deployment
-    if (pagesResponse.status !== 200) continue;
+    const deployments = deploymentResponse.data;
 
-    const liveUrl = pagesResponse.data.html_url;
+    if (!Array.isArray(deployments) || deployments.length === 0) {
+      continue;
+    }
+
+    const latestDeployment = deployments[0];
+
+    // Fetch deployment statuses
+    const statusResponse = await fetchJSON(
+      latestDeployment.statuses_url
+    );
+
+    const statuses = statusResponse.data;
+
+    if (!Array.isArray(statuses) || statuses.length === 0) {
+      continue;
+    }
+
+    // Find first deployment with environment URL
+    const deployedStatus = statuses.find(
+      (status) => status.environment_url
+    );
+
+    if (!deployedStatus) continue;
+
+    const liveUrl = deployedStatus.environment_url;
 
     markdown += `<a href="${liveUrl}" target="_blank">
   <img src="https://img.shields.io/badge/${encodeURIComponent(
     repo.name
   )}-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>\n\n`;
+</a>
+
+`;
   }
 
   fs.writeFileSync("website-links.md", markdown);

@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/AI_summary_evaluation-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://manikeshmk.github.io/All_Languages_Used/" target="_blank">
+  <img src="https://img.shields.io/badge/All_Languages_Used-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://manikeshmk.github.io/Arm_challenge/" target="_blank">
   <img src="https://img.shields.io/badge/Arm_challenge-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>

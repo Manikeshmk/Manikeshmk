@@ -83,10 +83,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
 <img src="assets/divider.svg" width="100%" />
 
-# 🌐 Live Websites Portfolio  
-<p align="center">
-  <i>Explore my deployed products, experiments, and interactive web experiences</i>
-</p>
 
 <!-- WEBSITE-LINKS-START -->
 

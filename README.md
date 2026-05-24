@@ -92,7 +92,7 @@
   <i>Explore my deployed products, experiments, and interactive web experiences</i>
 </p>
 
-<a href="https://all-languages-used-8zt5jomt2-manikeshs-projects.vercel.app" target="_blank">
+<a href="https://all-languages-used-fg6y5sc3h-manikeshs-projects.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/All_Languages_Used-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 

@@ -74,7 +74,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikeshmk&theme=onedark&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=manikeshmk&theme=onedark&rank=SS,SSS,S,AAA,AA,A,B,C,SECRET" />
 </p>
 
 <br>

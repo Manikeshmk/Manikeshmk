@@ -59,6 +59,9 @@
     <img alt="github-snake" 
          src="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg" 
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
+    <a href="https://app.gitpokecol.org">
+  <img src="https://gitpokecol.org/pokemons/YOUR_GITHUB_USERNAME" alt="My Pokémon Collection"/>
+</a>
   </picture>
 </p>
 <p align="center">

@@ -61,9 +61,6 @@
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
   </picture>
 </p>
-<p>
-  <img src="https://profile-card-ten-green.vercel.app/api/card?username=manikeshmkalt="My Pokémon Style GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikeshmk&theme=tokyonight&layout=compact&langs_count=100&cache_seconds=1800" height="165">

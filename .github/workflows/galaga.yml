@@ -14,27 +14,31 @@ jobs:
     steps:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
+        with:
+          # Fetches all history so Git can safely merge branch reference differences
+          fetch-depth: 0
 
       - name: Execute Galaga Compiling Script
         uses: manikeshmk/galaga-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Explicitly updates tracking references and pushes cleanly
       - name: Commit and Push SVG Asset to Main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Ensure target folders are structured cleanly
+          # Step 1: Force checkout main branch and pull down any concurrent edits (like from the Snake graph)
+          git checkout main
+          git pull origin main --rebase --autostash
+          
+          # Step 2: Stage and copy the generated layout asset
           mkdir -p assets
           cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
           
-          # Step 1: Force track and sync with remote HEAD changes right before committing
-          git fetch origin main
-          git rebase origin/main
-          
-          # Step 2: Push changes securely if modifications exist
+          # Step 3: Commit and push cleanly from the unified main branch pointer
           if ! git diff --cached --quiet; then
             git commit -m "chore: updated live galaga animation grid matrix asset"
             git push origin main

@@ -52,7 +52,7 @@
 # 📊 GitHub Stats
 ![Languages in my repo ](https://all-languages-used.vercel.app/api/languages?username=manikeshmk)
 <p align="center">
-  <img alt="Galaga GitHub Contributions Grid" src="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/dist/galaga.svg" width="100%">
+  <img alt="Galaga GitHub Contributions Grid" src="./assets/galaga.svg" width="100%">
 </p>
 <p align="center">
   <picture>

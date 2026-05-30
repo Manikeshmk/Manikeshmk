@@ -16,17 +16,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Execute Galaga Compiling Script
-        id: galaga_engine
         uses: manikeshmk/galaga-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Explicitly reads from the runner's internal action repository path variable
       - name: Commit and Push SVG Asset to Main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          cp "${{ steps.galaga_engine.outputs.svg_path }}" assets/galaga.svg
+          cp "$GITHUB_ACTION_PATH/dist/galaga.svg" assets/galaga.svg
           git add assets/galaga.svg
           git commit -m "chore: updated live galaga animation grid matrix asset" || exit 0
           git push origin main

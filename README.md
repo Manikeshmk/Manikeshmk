@@ -54,7 +54,7 @@
 <p align="center">
   <img alt="Galaga GitHub Contributions Grid" src="./assets/galaga.svg" width="100%">
 </p>
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg">
@@ -62,7 +62,7 @@
          src="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg" 
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
   </picture>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikeshmk&theme=tokyonight&layout=compact&langs_count=100&cache_seconds=1800" height="165">

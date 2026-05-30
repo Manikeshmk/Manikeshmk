@@ -51,7 +51,9 @@
 
 # 📊 GitHub Stats
 ![Languages in my repo ](https://all-languages-used.vercel.app/api/languages?username=manikeshmk)
-
+<p align="center">
+  <img alt="Galaga GitHub Contributions Grid" src="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/dist/galaga.svg" width="100%">
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake-dark.svg">

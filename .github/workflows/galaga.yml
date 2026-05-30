@@ -20,23 +20,20 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push SVG Asset to Main
+      - name: Commit and Force Push SVG Asset to Main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 1. Stage the compiled vector grid matrix
+          # Stage the freshly compiled asset folder matrix
           mkdir -p assets
           cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
           
-          # 2. Fix divergence by pulling the workflow updates you just pushed to GitHub
-          git pull origin main --rebase --autostash
-          
-          # 3. Commit and safely push to the updated remote HEAD
           if ! git diff --cached --quiet; then
             git commit -m "chore: updated live galaga animation grid matrix asset"
-            git push origin main
+            # Force pushing completely bypasses non-fast-forward rejections
+            git push origin main --force
           else
-            echo "No asset changes detected."
+            echo "No changes detected in the matrix grid graphic."
           fi

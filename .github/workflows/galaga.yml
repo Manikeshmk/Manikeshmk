@@ -15,9 +15,9 @@ jobs:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
 
-      # Secure execution of your public action layout engine
+      # Secure execution pointing directly to the live main branch
       - name: Execute Galaga Compiling Script
-        uses: manikeshmk/galaga-contribution-graph@v1.0.0
+        uses: manikeshmk/galaga-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 

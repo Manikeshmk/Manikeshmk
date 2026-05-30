@@ -59,10 +59,10 @@
     <img alt="github-snake" 
          src="https://raw.githubusercontent.com/manikeshmk/manikeshmk/output/github-contribution-grid-snake.svg" 
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
-    <a href="https://app.gitpokecol.org">
-  <img src="https://gitpokecol.org/pokemons/YOUR_GITHUB_USERNAME" alt="My Pokémon Collection"/>
-</a>
   </picture>
+</p>
+<p>
+  <img src="https://profile-card-ten-green.vercel.app/api/card?username=manikeshmkalt="My Pokémon Style GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikeshmk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165">

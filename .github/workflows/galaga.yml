@@ -14,25 +14,32 @@ jobs:
     steps:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Forces the runner environment to sync up to your latest manual changes
+      - name: Align Local History Pointer
+        run: |
+          git checkout main
+          git reset --hard origin/main
 
       - name: Execute Galaga Compiling Script
         uses: manikeshmk/galaga-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Pure bash commit sequence with a force push that ignores tree conflicts
       - name: Commit and Force Push SVG Asset to Main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Stage the freshly compiled asset folder matrix
           mkdir -p assets
           cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
           
           if ! git diff --cached --quiet; then
             git commit -m "chore: updated live galaga animation grid matrix asset"
-            # Force pushing completely bypasses non-fast-forward rejections
             git push origin main --force
           else
             echo "No changes detected in the matrix grid graphic."

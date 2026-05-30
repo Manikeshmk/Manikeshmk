@@ -28,9 +28,13 @@ jobs:
           mkdir -p assets
           cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
+          
+          # Force synchronization with remote branch updates before committing
+          git fetch origin main
+          git rebase origin/main || git rebase --skip
+          
           git commit -m "chore: updated live galaga animation grid matrix asset" || exit 0
           
-          # Pulls down any changes made by other actions right before pushing
-          git pull origin main --rebase
-          
+          # Final safety pull right before pushing the ref
+          git pull origin main --rebase --autostash
           git push origin main

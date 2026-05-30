@@ -29,12 +29,11 @@ jobs:
           cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
           
-          # Force synchronization with remote branch updates before committing
-          git fetch origin main
-          git rebase origin/main || git rebase --skip
-          
-          git commit -m "chore: updated live galaga animation grid matrix asset" || exit 0
-          
-          # Final safety pull right before pushing the ref
-          git pull origin main --rebase --autostash
-          git push origin main
+          # Check for changes cleanly without hard-breaking the runner step execution flow
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: updated live galaga animation grid matrix asset"
+            git pull origin main --rebase --autostash
+            git push origin main
+          else
+            echo "No changes detected in the contribution matrix layout tracking."
+          fi

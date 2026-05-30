@@ -20,13 +20,13 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Explicitly reads from the runner's internal action repository path variable
+      # Copies from the local repo workspace, matches the exact path behavior of your snake graph
       - name: Commit and Push SVG Asset to Main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          cp "$GITHUB_ACTION_PATH/dist/galaga.svg" assets/galaga.svg
+          cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
           git commit -m "chore: updated live galaga animation grid matrix asset" || exit 0
           git push origin main

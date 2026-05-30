@@ -29,4 +29,8 @@ jobs:
           cp dist/galaga.svg assets/galaga.svg
           git add assets/galaga.svg
           git commit -m "chore: updated live galaga animation grid matrix asset" || exit 0
+          
+          # Pulls down any changes made by other actions right before pushing
+          git pull origin main --rebase
+          
           git push origin main

@@ -14,34 +14,24 @@ jobs:
     steps:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
-        with:
-          # Fetches all history so Git can safely merge branch reference differences
-          fetch-depth: 0
 
       - name: Execute Galaga Compiling Script
         uses: manikeshmk/galaga-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Explicitly updates tracking references and pushes cleanly
-      - name: Commit and Push SVG Asset to Main
+      # Copies the file to your workspace asset path
+      - name: Prepare Asset Directory
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Step 1: Force checkout main branch and pull down any concurrent edits (like from the Snake graph)
-          git checkout main
-          git pull origin main --rebase --autostash
-          
-          # Step 2: Stage and copy the generated layout asset
           mkdir -p assets
           cp dist/galaga.svg assets/galaga.svg
-          git add assets/galaga.svg
-          
-          # Step 3: Commit and push cleanly from the unified main branch pointer
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: updated live galaga animation grid matrix asset"
-            git push origin main
-          else
-            echo "No changes detected in the contribution matrix layout tracking."
-          fi
+
+      # Uses an official action to automatically sync and commit cleanly
+      - name: Commit and Push SVG Asset
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: updated live galaga animation grid matrix asset"
+          file_pattern: 'assets/galaga.svg'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"

@@ -1,5 +1,3 @@
-# 👀 Profile Views 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
 <img src="assets/divider.svg" width="100%" />
 <br>
@@ -122,9 +120,12 @@
 <a href="https://manikeshmk.github.io/NLP_Sematic_Drift_Analysis_Over_Time/" target="_blank">
   <img src="https://img.shields.io/badge/NLP_Sematic_Drift_Analysis_Over_Time-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<br>
+# 👀 Profile Views 
 
+![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
 
-
+<br>
 <!-- WEBSITE-LINKS-END -->
 
 <img src="assets/divider.svg" width="100%" />

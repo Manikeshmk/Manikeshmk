@@ -18,7 +18,8 @@
 
 🏆 **Achievements**  
 - Top 20 in India — National **Analog Design Hackathon (C2S)**  
-- 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad  
+- 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad
+- 
 🧑‍💻**I Need Job**
 I am looking for 1 year long internship for Year 2026-27.
 i am available for both remote job and onsite roles.

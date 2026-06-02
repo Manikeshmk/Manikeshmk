@@ -1,3 +1,8 @@
+# 👀 Profile Views 
+
+![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
+<img src="assets/divider.svg" width="100%" />
+<br>
 <p align="center">
   <a href="https://all-languages-used.vercel.app/" target="_blank">
     <img src="./assets/banner.svg" width="600"/>
@@ -86,12 +91,6 @@
 </p>
 
 <br>
-# 👀 Profile Views 
-
-![Profile Views](https://komarev.com/ghpvc/?username=manikeshmk&color=blue)  
-<img src="assets/divider.svg" width="100%" />
-
-
 <!-- WEBSITE-LINKS-START -->
 
 # 🌐 Live Websites Portfolio
@@ -131,5 +130,6 @@
 <img src="assets/divider.svg" width="100%" />
 
 # 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikesh-kumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikesh-kumar/)
+[![Twitter](https://img.shields.io/badge/Twitter-@/anikeshKX?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ManikeshKX)
 <img src="./assets/footer.svg" />

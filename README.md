@@ -11,6 +11,9 @@
 <img src="./assets/divider.svg" width="100%" />
 
 # 👨‍💻 About Me  
+I am looking for 1 year long internship for Year 2026-27.
+i am available for both remote job and onsite roles.
+I need a job, if you are recruiter and there is good fit in my profile , please email me.
 💻 Intern @ **IIT Delhi**<br>
 🔬 Former Intern @ **IIT Dharwad**  
 🎓 B.Tech in **Data Science & Artificial Intelligence** @ *IIIT Dharwad*  

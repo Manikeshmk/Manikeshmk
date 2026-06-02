@@ -130,6 +130,6 @@
 <img src="assets/divider.svg" width="100%" />
 
 # 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manikesh-kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikesh-kumar/)
-[![Twitter](https://img.shields.io/badge/Twitter-@/ManikeshKX-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ManikeshKX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manikesh--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikesh-kumar/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ManikeshKX-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ManikeshKX)
 <img src="./assets/footer.svg" />

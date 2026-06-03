@@ -77,13 +77,13 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikeshmk&theme=tokyonight&layout=compact&langs_count=100&cache_seconds=1800" height="165">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manikeshmk&theme=tokyonight" >
 </p>
-<br>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=manikeshmk&theme=dark&cache_seconds=1800&v=3" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=manikeshmk&theme=onedark&rank=SS,SSS,S,AAA,AA,A,B,C,SECRET&row=4&column=9" />
 </p>

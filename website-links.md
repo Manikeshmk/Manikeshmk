@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Arm_challenge-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://casualfunnel-1sj2vtyhs-manikeshs-projects.vercel.app" target="_blank">
+<a href="https://casualfunnel-brown.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Casualfunnel-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 

@@ -53,9 +53,12 @@ async function main() {
 `;
 
   for (const repo of repos) {
-    if (repo.fork) continue;
+  if (repo.fork) continue;
 
-    // Fetch deployments
+  let liveUrl = repo.homepage;
+
+  // If homepage exists, prefer it
+  if (!liveUrl || liveUrl.trim() === "") {
     const deploymentResponse = await fetchJSON(
       `https://api.github.com/repos/${username}/${repo.name}/deployments`
     );
@@ -68,7 +71,6 @@ async function main() {
 
     const latestDeployment = deployments[0];
 
-    // Fetch deployment statuses
     const statusResponse = await fetchJSON(
       latestDeployment.statuses_url
     );
@@ -79,16 +81,16 @@ async function main() {
       continue;
     }
 
-    // Find first deployment with environment URL
     const deployedStatus = statuses.find(
       (status) => status.environment_url
     );
 
     if (!deployedStatus) continue;
 
-    const liveUrl = deployedStatus.environment_url;
+    liveUrl = deployedStatus.environment_url;
+  }
 
-    markdown += `<a href="${liveUrl}" target="_blank">
+  markdown += `<a href="${liveUrl}" target="_blank">
   <img src="https://img.shields.io/badge/${encodeURIComponent(
     repo.name
   )}-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />

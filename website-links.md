@@ -40,3 +40,7 @@
   <img src="https://img.shields.io/badge/NLP_Sematic_Drift_Analysis_Over_Time-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="http://manikesh.me/sabka_bakaya/" target="_blank">
+  <img src="https://img.shields.io/badge/sabka_bakaya-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+

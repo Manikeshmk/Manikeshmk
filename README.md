@@ -31,7 +31,7 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-![All Languages](https://all-languages-used.vercel.app/api/languages?username=MANIKESHMK)
+![Languages used in projects: ](https://all-languages-used.vercel.app/api/languages?username=MANIKESHMK)
 # 🔧 Tech Stack
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

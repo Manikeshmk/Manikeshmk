@@ -31,8 +31,8 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
+![All Languages](https://all-languages-used.vercel.app/api/languages?username=MANIKESHMK)
 # 🔧 Tech Stack
-
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -59,7 +59,6 @@
 <img src="./assets/divider.svg" width="100%" />
 
 # 📊 GitHub Stats
-![Languages in my repo ](https://all-languages-used.vercel.app/api/languages?username=manikeshmk)
 <p align="center">
   <img alt="Galaga GitHub Contributions Grid" src="./assets/galaga.svg" width="100%">
 </p>

@@ -14,7 +14,7 @@
 <img src="./assets/divider.svg" width="100%" />
 
 # 👨‍💻 About Me  
-💻 Intern @ **IIT Delhi**<br>
+💻 Former Intern @ **IIT Delhi**<br>
 🔬 Former Intern @ **IIT Dharwad**  
 🎓 B.Tech in **Data Science & Artificial Intelligence** @ *IIIT Dharwad*  
 🌱 Currently Learning **Generative AI, Agentic AI, XAI, React, JavaScript**  

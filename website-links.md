@@ -4,10 +4,6 @@
   <i>Explore my deployed products, experiments, and interactive web experiences</i>
 </p>
 
-<a href="https://www.desmos.com/calculator/0xelzm1gqf" target="_blank">
-  <img src="https://img.shields.io/badge/AI_R-D_Question-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://all-languages-used.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/All_Languages_Used-Visit_Website-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
